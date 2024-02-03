@@ -1,0 +1,234 @@
+{
+  "MapCycle": { "RandomOrder": false, "MapChangeAtTheEndOfMatchDelay": 19 },
+  "Maps": [
+    {
+      "Name": "de_nuke",
+      "DisplayName": "de_nuke",
+      "Id": "de_nuke",
+      "Workshop": false
+    },
+    {
+      "Name": "kz_checkmate",
+      "DisplayName": "kz_checkmate",
+      "Id": "3070194623",
+      "Workshop": true
+    },
+    { "Id": "3077870359", "Workshop": true },
+    {
+      "Name": "kz_leto_v2",
+      "DisplayName": "kz_leto_v2",
+      "Id": "3070830826",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_generic",
+      "DisplayName": "kz_generic",
+      "Id": "3070316567",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_alfama",
+      "DisplayName": "kz_alfama",
+      "Id": "3070308301",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_neighbourhood",
+      "DisplayName": "kz_neighbourhood",
+      "Id": "3075731680",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_dog",
+      "DisplayName": "kz_dog",
+      "Id": "3071622478",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_cf_startingroom",
+      "DisplayName": "kz_cf_startingroom",
+      "Id": "3124792333",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_xmas2023",
+      "DisplayName": "kz_xmas2023",
+      "Id": "3124558836",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_grotto",
+      "DisplayName": "kz_grotto",
+      "Id": "3121168339",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_cf_yotsuba",
+      "DisplayName": "kz_cf_yotsuba",
+      "Id": "3103052210",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_victoria",
+      "DisplayName": "kz_victoria",
+      "Id": "3086304337",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_bn_strafe",
+      "DisplayName": "kz_bn_strafe",
+      "Id": "3114758232",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_sxb2_poi",
+      "DisplayName": "kz_sxb2_poi",
+      "Id": "3107676358",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_sxb2_surfaintkz",
+      "DisplayName": "kz_sxb2_surfaintkz",
+      "Id": "3107580148",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_phamous",
+      "DisplayName": "kz_phamous",
+      "Id": "3104579274",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_igneous",
+      "DisplayName": "kz_igneous",
+      "Id": "3102712799",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_isuper",
+      "DisplayName": "kz_isuper",
+      "Id": "3100988369",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_concrete",
+      "DisplayName": "kz_concrete",
+      "Id": "3095025786",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_tranquility",
+      "DisplayName": "kz_tranquility",
+      "Id": "3085685607",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_kiwi_hym",
+      "DisplayName": "kz_kiwi_hym",
+      "Id": "3083938271",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_sxb2_cxz",
+      "DisplayName": "kz_sxb2_cxz",
+      "Id": "3083714192",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_rc_twotowers",
+      "DisplayName": "kz_rc_twotowers",
+      "Id": "3083509404",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_sxb2_misato",
+      "DisplayName": "kz_sxb2_misato",
+      "Id": "3082850001",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_ehcivec_final",
+      "DisplayName": "kz_ehcivec_final",
+      "Id": "3082213334",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_gus",
+      "DisplayName": "kz_gus",
+      "Id": "3082144971",
+      "Workshop": true
+    },
+    {
+      "Name": "bhop_kz_deadcore",
+      "DisplayName": "bhop_kz_deadcore",
+      "Id": "3079982220",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_simplyhard",
+      "DisplayName": "kz_simplyhard",
+      "Id": "3078311932",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_nomibo",
+      "DisplayName": "kz_nomibo",
+      "Id": "3077122656",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_sxb2_biewan",
+      "DisplayName": "kz_sxb2_biewan",
+      "Id": "3076000218",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_sxb2_despacito",
+      "DisplayName": "kz_sxb2_despacito",
+      "Id": "3075242470",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_ggsh",
+      "DisplayName": "kz_ggsh",
+      "Id": "3072744536",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_ltt",
+      "DisplayName": "kz_ltt",
+      "Id": "3072699538",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_rc_stonehenge",
+      "DisplayName": "kz_rc_stonehenge",
+      "Id": "3072219045",
+      "Workshop": true
+    },
+    {
+      "Name": "kz_sxb2_remake",
+      "DisplayName": "kz_sxb2_remake",
+      "Id": "3071551126",
+      "Workshop": true
+    }
+  ],
+  "Rtv": {
+    "Enabled": true,
+    "AutoVoteEnabled": true,
+    "AutoVoteTimeStartInSeconds": 0,
+    "AutoVoteRoundStart": 3,
+    "AutoVoteStartAtTheEndOfMatch": false,
+    "PlayerCommandEnabled": true,
+    "PlayerCommandTriggerAVote": true,
+    "PlayerCommandRatioEnabled": true,
+    "PlayerCommandRatio": 0.6,
+    "PlayerCommandChangeTheMapDirectlyAfterVote": true,
+    "VoteMapCount": 6,
+    "VoteDurationInSeconds": 30,
+    "VoteRatioEnabled": true,
+    "VoteRatio": 0.6,
+    "ExtendMap": true
+  },
+  "ConfigVersion": 2
+}
